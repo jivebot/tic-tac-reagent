@@ -1,0 +1,47 @@
+body {
+  margin: 50px 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.app {
+  width: 229px;
+  margin: 0px auto;
+}
+
+h1 {
+  font-size: 18pt;
+  text-align: center;
+}
+
+div.reset {
+  text-align: center;
+  margin: 0 0 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 229px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+  width: 75px;
+  height: 75px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24pt;
+}
+
+td.winning {
+  background-color: green;
+  color: white;
+}
+
+p.status {
+  text-align: center;
+}
