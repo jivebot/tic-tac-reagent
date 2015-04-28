@@ -2,6 +2,8 @@
 
 The game of tic-tac-toe, implemented in Reagent.
 
+Demo: http://jasonives.com/demos/tic-tac-reagent/
+
 ## Usage
 
 - Clone this repo
